@@ -17,7 +17,8 @@ plugins {
 
 apply plugin: 'net.minecraftforge.gradleutils'
 
-java.toolchain.languageVersion = JavaLanguageVersion.of(7)
+project.sourceCompatibility = '7'
+project.targetCompatibility = '7'
 
 version = gradleutils.tagOffsetVersion
 group = 'net.minecraftforge'
