@@ -1,0 +1,16 @@
+[
+{
+  "modid": "legacyjavafixer",
+  "name": "Legacy Java Fixer",
+  "description": "Coremod to fix older FML/Forge versions for the broken Java 8_20 build.",
+  "version": "2.1",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/JordanPlayz158/LegacyJavaFixer",
+  "updateUrl": "",
+  "authorList": ["LexManos", "covers1624"],
+  "credits": "The Forge and FML guys, for making this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
